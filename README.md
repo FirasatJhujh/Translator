@@ -1,6 +1,4 @@
 # Translator v1.0
-![Translator Screenshot](Translator Screenshot 1.png)
-## setup
 ### There is a setup of this unique calculator . 
 How to install this setup
 
